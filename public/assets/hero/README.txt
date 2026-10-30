@@ -1,0 +1,1 @@
+Replace this folder's placeholder with WINSTAR's approved hero photograph at winstar-hero.webp. Current site imagery is remote architectural stock photography for layout demonstration only, and must not be represented as completed WINSTAR work.

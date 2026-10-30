@@ -1,0 +1,1 @@
+Create one folder per verified project, for example project-01/. Add optimized cover.webp, gallery images and optional video poster files. Then add the verified project record to src/data/projects.ts.
